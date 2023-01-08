@@ -1,0 +1,16 @@
+.OddNumber {
+	background-color: lightpink;
+	font: Verdana, "DejaVu Sans", sans-serif;
+}
+#second {
+	color: blue;
+	font-size: 36px;
+}
+.OddNumber.third {
+	font-size: 24px;
+}
+#fourth {
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: bold;
+}
